@@ -1,0 +1,1 @@
+<p>Đây là email tự động từ Shop ThanhBK. Click <a href="{{ $route }}">vào đây</a> để lấy lại mật khẩu của bạn</p>
